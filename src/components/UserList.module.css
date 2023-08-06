@@ -1,0 +1,11 @@
+.list-wrapper ul {
+    list-style-type: none;
+}
+
+.list-wrapper ul li {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid grey;
+    padding: 0 20px;
+    margin-bottom: 5px;
+}

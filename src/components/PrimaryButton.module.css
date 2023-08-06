@@ -1,0 +1,14 @@
+.btn-primary {
+    margin-top: 25px;
+}
+
+.btn-primary button {
+    background-color: rgb(71, 71, 255);
+    padding: 15px 40px;
+    color: #ffffff;
+    border: 0;
+    font-size: 20px;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
